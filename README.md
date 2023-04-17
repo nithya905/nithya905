@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nnitu905@gmail.com**
 
-- 🎓 Studied Masters in **Data Science and Engineering** from UNIVERSITÀ DI DEGLI DEI GENOVA, ITALY
+- 🎓 Studied Masters in **Data Science and Engineering** from  <br> UNIVERSITÀ DI DEGLI DEI GENOVA, ITALY
 - 📄 See my resume for more info 
 <a href="https://drive.google.com/file/d/1ijKvaaVHrJpYNNK5T9R0l1o50Afz-fxX/view?usp=sharing">Resume</a>
 
