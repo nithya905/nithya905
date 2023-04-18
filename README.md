@@ -13,7 +13,7 @@
 
 - 🎓 Studied Masters in **Data Science and Engineering** from  <br> UNIVERSITÀ DI DEGLI DEI GENOVA, ITALY
 - 📄 See my resume for more info 
-<a href="https://drive.google.com/file/d/1ijKvaaVHrJpYNNK5T9R0l1o50Afz-fxX/view?usp=sharing">Resume</a>
+<a href="https://drive.google.com/file/d/1EQ5vpVXs6f4MdE0ikniAw0e-pAgo69WC/view?usp=sharing">Resume</a>
 
 - <p style="font-size:20px">⚡  Fun Fact &nbsp;<b> I still believe Batman is real.... </b>  &#128540;</p>
 
